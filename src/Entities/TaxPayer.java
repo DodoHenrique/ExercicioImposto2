@@ -31,7 +31,6 @@ public abstract class TaxPayer {
 
 	public abstract double tax();
 
-	System.out.print("Teste");
 }
 
 	
